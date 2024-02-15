@@ -5,8 +5,8 @@
 |            |            |
 | ---------: | :--------- |
 | Zpracoval: | Jiří Bašta |
-| Dne:       | 15.02.2024 |
-| Třída:     |    4.B.Bnj |
+|       Dne: | 15.02.2024 |
+|     Třída: | 4.B.Bnj    |
 
 ---
 
@@ -15,8 +15,8 @@
 ### Použité Programy :
 >VSCode  
 >Git  
-> Markdown editor
+>Markdown editor
 
 ---
-<p style="text-align: center;">*Střední průmyslová škola elektrotechniky a informatiky*</p>
-<p style="text-align: center;"><img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="150px"></p>
+<p align="center">*Střední průmyslová škola elektrotechniky a informatiky*</p>
+<p align="center"><img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="150px"></p>
