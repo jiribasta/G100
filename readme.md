@@ -18,5 +18,5 @@
 > Markdown editor
 
 ---
-*Střední průmyslová škola elektrotechniky a informatiky*<
-<img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="150px"><
+*Střední průmyslová škola elektrotechniky a informatiky*  
+<img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="150px">
