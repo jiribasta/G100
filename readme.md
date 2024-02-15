@@ -13,10 +13,10 @@
 **Github** <http://github.com/jiribasta>
 
 ### Použité Programy :
->VSCode  
->Git  
+>VSCode
+>Git
 >Markdown editor
 
 ---
-<p align="center">*Střední průmyslová škola elektrotechniky a informatiky*</p>
+<p align="center"><span style="color: red;"><i>Střední průmyslová</span> škola elektrotechniky a informatiky</i></p>
 <p align="center"><img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="150px"></p>
